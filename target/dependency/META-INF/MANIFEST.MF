@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Implementation-Title: LocationMicroServices
+Implementation-Version: 0.0.1-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: yuvaraj.t
+Implementation-Vendor-Id: com
+Spring-Boot-Version: 1.5.2.RELEASE
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: com.Location.LocationSpringBoot
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_45
+Implementation-URL: http://projects.spring.io/spring-boot/LocationMicr
+ oServices/
+

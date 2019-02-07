@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: LocationMicroServices
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: yuvaraj.t
+Implementation-Vendor-Id: com
+Build-Jdk: 1.8.0_45
+Implementation-URL: http://projects.spring.io/spring-boot/LocationMicr
+ oServices/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

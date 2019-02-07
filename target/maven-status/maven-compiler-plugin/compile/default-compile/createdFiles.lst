@@ -1,0 +1,6 @@
+com\Location\service\LocationService.class
+com\Location\controller\LocationRestApiController.class
+com\Location\service\LocationServiceImpl.class
+com\Location\util\CustomLocationError.class
+com\Location\model\Location.class
+com\Location\LocationSpringBoot.class
